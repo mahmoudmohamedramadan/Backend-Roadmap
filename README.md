@@ -19,7 +19,7 @@
 
 # Getting Started 🚀
     
-## Extensions 💡
+## VS Code Extensions 💡
 <ul id="vscode_extensions">
   <li>PHP Debug</li>
   <li>PHP Inteliphense</li>
@@ -69,7 +69,7 @@ Here you will learn Github to push your projects first 9 episodes 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
 
-# Intermediate Level 🔥
+## Intermediate Level 🔥
 
 ### Laravel 5.x: Coder’s Tape
 Here you will learn more things but in different way to gain experience 👇
@@ -88,7 +88,7 @@ Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 
     
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
 
-# Advanced Level 😎
+## Advanced Level 😎
     
 ### Laravel 6.x: Coder’s Tape
 Here you will learn very advanced topics in Laravel with Code’s Tap 👇
@@ -100,7 +100,7 @@ Here you will learn very advanced topics and real time actions in Laravel with A
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
 
-# Ninja Level 👨‍💻
+## Ninja Level 👨‍💻
 
 ### Packages:
 Andre Madarang || Sarthak Shrivastava here you will learn some useful packages in Laravel
@@ -112,7 +112,7 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
     
 > Suppose that you want to make a project for a client, Surely you will NOT send the project to him and maybe you do NOT have private hosting, So welcome <a href="https://ngrok.com/download">Ngrok</a>. This awesome tool enables you to publish your project in virtual hosting
     
-# Books 📕
+## Books 📕
 
 <ul>
   <li><a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">Laravel Up & Running</a></li>
@@ -121,21 +121,21 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
 
 > you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>  
     
-# Awesome Repos 🥇
+## Awesome Repos 🥇
     
 <ul>
   <li><a href="https://github.com/odan/learn-php">Awesome PHP</a></li>
   <li><a href="https://github.com/chiraggude/awesome-laravel">Awesome Laravel</a></li>
 </ul>
     
-# Awesome Channels 🎦
+## Awesome Channels 🎦
     
 <ul>
   <li><a href="https://www.youtube.com/c/LaravelDaily">Laravel Daily</a></li>
   <li><a href="https://www.youtube.com/c/Laratips">Laratips</a></li>
 </ul>
     
-# Awesome Websites 🌐
+## Awesome Websites 🌐
     
 <ul>
   <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
@@ -143,20 +143,20 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
   <li><a href="https://www.guru99.com/">Guru99</a></li>
 </ul>
     
-# Awesome Chrome Extensions 🎆
+## Awesome Chrome Extensions 🎆
     
 <ul>
   <li><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en">JSON Formatter</a></li>
   <li><a href="https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo">Fake Filler</a></li>
 </ul>
     
-# Be cope up with ♻
+## Be cope up with ♻
     
 <ul>
   <li><a href="https://laravel-news.com/">Laravel News</a></li>
 </ul>
     
-# Contact Me 📱
+## Contact Me 📱
 
 <a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/mahmoudmohamedramadan/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
