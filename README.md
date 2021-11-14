@@ -109,12 +109,6 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
   <li><a href="https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f">Andre Madarang</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLe30vg_FG4ORrveWqHjn-9C5sn5mUP815">Sarthak Shrivastava</a></li>
 </ul>
-
-# Real Project ⚡
-
-Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0c_MWg58wyE6ZUFVsOqFj0-B3cT_">full stack project</a>. which covers lots of topics in {PHP, Laravel, API,...}
-    
-> This step is optional BUT actually, you will get more knowledge
     
 > Suppose that you want to make a project for a client, Surely you will NOT send the project to him and maybe you do NOT have private hosting, So welcome <a href="https://ngrok.com/download">Ngrok</a>. This awesome tool enables you to publish your project in virtual hosting
     
@@ -125,11 +119,7 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
   <li><a href="https://github.com/CIS-Team/BackEnd-Squad/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
 </ul>
 
-> you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>
-    
-# Laravel Examples 💻
-    
-<a href="https://laravelexamples.com/">Laravel Examples</a>    
+> you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>  
     
 # Awesome Repos 🥇
     
@@ -143,6 +133,21 @@ Here you will find an awesome <a href="https://youtube.com/playlist?list=PL6dOx0
 <ul>
   <li><a href="https://www.youtube.com/c/LaravelDaily">Laravel Daily</a></li>
   <li><a href="https://www.youtube.com/c/Laratips">Laratips</a></li>
+</ul>
+    
+# Awesome Websites 🌐
+    
+<ul>
+  <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
+  <li><a href="https://beginner-sql-tutorial.com/sql-commands.htm">Beginner SQL</a></li>
+  <li><a href="https://www.guru99.com/">Guru99</a></li>
+</ul>
+    
+# Awesome Chrome Extensions 🎆
+    
+<ul>
+  <li><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en">JSON Formatter</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo">Fake Filler</a></li>
 </ul>
     
 # Be cope up with ♻
