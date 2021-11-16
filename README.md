@@ -6,7 +6,7 @@
   <a href="https://laravel-livewire.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/repo/livewire_logo.svg" width="100px" height="200px" alt="Laravel"></a>
 </p>
 
-# Tools 🤙
+# Prerequisites 📢
 
 <ul>
   <li><a href="https://www.apachefriends.org/download.html">Xampp</a></li>
@@ -15,7 +15,30 @@
 </ul>
     
 > `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optionally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
-<a href="#extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also. `Composer` is a dependency manager for PHP and, you will need `Composer` for install/update Laravel Project also like packages
+<a href="#vscode_extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also, I recommend some `Chrome` <a href="#chrome_extensions">extensions</a> they will help you also. `Composer` is a dependency manager for PHP and, you will need `Composer` to install/update Laravel Project also like packages
+    
+## Awesome Extensions 💡
+ 
+### VS Code
+ 
+<ul id="vscode_extensions">
+  <li>PHP Debug</li>
+  <li>PHP Inteliphense</li>
+  <li>Laravel Extension Pack</li>
+  <li>Auto Rename Tag</li>
+  <li>Error Lens</li>
+  <li>PHP Class Generator</li>
+  <li>PHP Snippets</li>
+  <li>vscode-icons</li>
+  <li>MySQL</li>
+</ul>
+    
+### Chrome
+    
+<ul id="chrome_extensions">
+  <li><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en">JSON Formatter</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo">Fake Filler</a></li>
+</ul>
 
 # Getting Started 🚀
 
@@ -32,12 +55,12 @@ Second to be master at php you will need to be a hero in OOP (object oriented pr
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">OOP</a>
 
 ### Advanced PHP:  Elzero
-Third you need to know some advanced topics in php like sanitization and XSS 👇
+Third you need to know some advanced topics in php like sanitization and `XSS` 👇
  
 <a href="https://youtu.be/uXpQSrx8aqw">Security & Sanitization</a>
 
 ### Database: Elzero
-After you become master in php you will need to know about Databases, Tables, Rows and its functions Laraver 👇
+After you become master in `PHP` you will need to know about Databases, Tables, and Rows 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
@@ -52,7 +75,7 @@ Finally after you’ve finished `PHP` & `MySQL` you need to know how to create A
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
 
 ### Github: Elzero
-Here you will learn Github to push your projects first 9 episodes 👇
+Here you will learn `Github` to push your projects there 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
 
@@ -128,31 +151,6 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
   <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
   <li><a href="https://beginner-sql-tutorial.com/sql-commands.htm">Beginner SQL</a></li>
   <li><a href="https://www.guru99.com/">Guru99</a></li>
-</ul>
-  
-## Awesome Extensions 💡
- 
-<div id="extensions"></div>
-    
-### VS Code
- 
-<ul>
-  <li>PHP Debug</li>
-  <li>PHP Inteliphense</li>
-  <li>Laravel Extension Pack</li>
-  <li>Auto Rename Tag</li>
-  <li>Error Lens</li>
-  <li>PHP Class Generator</li>
-  <li>PHP Snippets</li>
-  <li>vscode-icons</li>
-  <li>MySQL</li>
-</ul>
-    
-### Chrome
-    
-<ul>
-  <li><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en">JSON Formatter</a></li>
-  <li><a href="https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo">Fake Filler</a></li>
 </ul>
     
 ## Be cope up with ♻
