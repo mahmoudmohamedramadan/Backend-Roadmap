@@ -31,6 +31,7 @@
   <li>PHP Snippets</li>
   <li>vscode-icons</li>
   <li>MySQL</li>
+  <li>GitHub Copilot</li>
 </ul>
     
 ### Chrome
@@ -38,7 +39,10 @@
 <ul id="chrome_extensions">
   <li><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en">JSON Formatter</a></li>
   <li><a href="https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo">Fake Filler</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon">Blackbox</a></li>
 </ul>
+    
+> `GitHub Copilot` is a very awesome tool BUT please use it in production applications ONLY NOT while learning.
 
 # Getting Started 🚀
 
