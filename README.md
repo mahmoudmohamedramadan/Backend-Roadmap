@@ -95,8 +95,8 @@ Here you will learn many and many in Laravel and see new tools like `Livewire` a
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">Laravel 7.x</a>
 
-### Livewire
-Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 👇
+### Livewire: Sarthak Shrivastava
+Here you will learn the `Livewire` framework, this framework is similar to `Vue.js` 👇
  
 > This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>
     
@@ -105,7 +105,7 @@ Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 
 ## Advanced Level 😎
     
 ### Laravel 6.x: Coder’s Tape
-Here you will learn very advanced topics in Laravel with Code’s Tap 👇
+Here you will learn very advanced topics in Laravel 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Advanced Laravel</a>
 
@@ -117,7 +117,7 @@ Here you will learn very advanced topics and real-time actions in Laravel 👇
 ## Ninja Level 🐱‍👤
 
 ### Packages:
-Andre Madarang || Sarthak Shrivastava here with you to will learn some useful packages in Laravel
+Andre Madarang || Sarthak Shrivastava here with you to will learn many useful packages in Laravel
     
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f">Andre Madarang</a></li>
@@ -133,7 +133,7 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn some useful pa
   <li><a href="https://github.com/CIS-Team/BackEnd-Squad/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
 </ul>
 
-> you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>  
+> You may want recaps for the first book so, you can see <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">Laravel-Digging</a>  
     
 ## Awesome Repos 🏆
     
@@ -147,6 +147,8 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn some useful pa
 <ul>
   <li><a href="https://www.youtube.com/c/LaravelDaily">Laravel Daily</a></li>
   <li><a href="https://www.youtube.com/c/Laratips">Laratips</a></li>
+  <li><a href="https://www.youtube.com/c/LaravelPackageTutorial">Laravel Package Tutorial</a></li>
+  <li><a href="https://www.youtube.com/c/LaravelPHP">Laravel</a></li>
 </ul>
     
 ## Awesome Websites 🌐
@@ -154,6 +156,7 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn some useful pa
 <ul>
   <li><a href="https://laravel-news.com/">Laravel News</a></li>
   <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
+  <li><a href="https://www.blog.mmramadan.com/fields/Back-End">Digging Code</a></li>
   <li><a href="https://beginner-sql-tutorial.com/sql-commands.htm">Beginner SQL</a></li>
   <li><a href="https://www.guru99.com/">Guru99</a></li>
 </ul>
