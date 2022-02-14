@@ -49,22 +49,22 @@
 ## Beginner Level 😋
 
 ### PHP: Elzero
-At the first we will use php programming language in our backend journey as a powerful language 👇
+At the first, we will use PHP programming language in our backend journey as a powerful language 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">Apitizers</a>
 
-## OOP: Elzero || The Net Ninja
-Second to be master at php you will need to be a hero in OOP (object oriented programming) 👇
+## OOP: Elzero
+Second, to be master at PHP you will need to be a hero in OOP (object-oriented programming) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">OOP</a>
 
 ### Advanced PHP:  Elzero
-Third you need to know some advanced topics in php like sanitization and `XSS` 👇
+Third, you may need to know some advanced topics in PHP like `Sanitization` and `XSS` 👇
  
-<a href="https://youtu.be/uXpQSrx8aqw">Security & Sanitization</a>
+<a href="https://youtu.be/uXpQSrx8aqw">Advanced PHP</a>
 
 ### Database: Elzero
-After you become master in `PHP` you will need to know about Databases, Tables, and Rows 👇
+After you become master in PHP you will need to know about Databases, Tables, and Rows 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
@@ -74,26 +74,26 @@ Sometimes you need to provide Payment methods to your website like {Stripe, Hype
 <a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Payment Gateway</a>
 
 ### API: Traversy Media
-Finally after you’ve finished `PHP` & `MySQL` you need to know how to create APIs 👇
+Finally, after you’ve finished `PHP` & `MySQL` you'll need to know how to create APIs to be usable via `Android TEAM` 👇
     
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
 
 ### Github: Elzero
-Here you will learn `Github` to push your projects there 👇
+Here you will learn how to deal with `Github` 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
 
 ## Intermediate Level 🔥
 
 ### Laravel 5.x: Coder’s Tape
-Here you will learn more things but in different way to gain experience 👇
+Here you will learn many things but in the old Laravel version 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
-Here you will learn more topics like `Livewire` and `Tailwind CSS` 👇
+Here you will learn many and many in Laravel and see new tools like `Livewire` and `Tailwind CSS` 👇
 
-<a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">English Laravel 7.x</a>
+<a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">Laravel 7.x</a>
 
 ### Livewire
 Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 👇
@@ -107,17 +107,17 @@ Here you will learn `Livewire` framework, this framework is similar to `Vue.js` 
 ### Laravel 6.x: Coder’s Tape
 Here you will learn very advanced topics in Laravel with Code’s Tap 👇
     
-<a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Laravel 6.x</a>
+<a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Advanced Laravel</a>
 
-### Laravel 7.x: Laravel Realtime
-Here you will learn very advanced topics and real time actions in Laravel with Ahemd Emam 👇
+### Laravel Real-Time 7.x: Ahemd Emam
+Here you will learn very advanced topics and real-time actions in Laravel 👇
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
 
-## Ninja Level 👨‍💻
+## Ninja Level 🐱‍👤
 
 ### Packages:
-Andre Madarang || Sarthak Shrivastava here you will learn some useful packages in Laravel
+Andre Madarang || Sarthak Shrivastava here with you to will learn some useful packages in Laravel
     
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f">Andre Madarang</a></li>
@@ -135,14 +135,14 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
 
 > you may want recaps for the first book <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">here</a>  
     
-## Awesome Repos 🥇
+## Awesome Repos 🏆
     
 <ul>
   <li><a href="https://github.com/odan/learn-php">Awesome PHP</a></li>
   <li><a href="https://github.com/chiraggude/awesome-laravel">Awesome Laravel</a></li>
 </ul>
     
-## Awesome Channels 🎦
+## Awesome YouTube Channels 🎦
     
 <ul>
   <li><a href="https://www.youtube.com/c/LaravelDaily">Laravel Daily</a></li>
@@ -152,18 +152,14 @@ Andre Madarang || Sarthak Shrivastava here you will learn some useful packages i
 ## Awesome Websites 🌐
     
 <ul>
+  <li><a href="https://laravel-news.com/">Laravel News</a></li>
   <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
   <li><a href="https://beginner-sql-tutorial.com/sql-commands.htm">Beginner SQL</a></li>
   <li><a href="https://www.guru99.com/">Guru99</a></li>
 </ul>
     
-## Be cope up with ♻
-    
-<ul>
-  <li><a href="https://laravel-news.com/">Laravel News</a></li>
-</ul>
-    
-## Contact Me 📱
+## Contact Me 📩
 
-<a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/mahmoudmohamedramadan/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/mahmoudmohamedramadan496" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+ <a href="https://twitter.com/mmramadan496" title="Twitter"><img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/mahmoudmohamedramadan/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
