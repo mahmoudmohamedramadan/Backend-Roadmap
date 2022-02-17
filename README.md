@@ -77,6 +77,8 @@ Sometimes you need to provide Payment methods to your website like {Stripe, Hype
 Finally, after you’ve finished `PHP` & `MySQL` you'll need to know how to create APIs to be usable via `Android TEAM` 👇
     
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
+    
+> You can find more about PHP in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP">Awesome PHP</a>
 
 ### Github: Elzero
 Here you will learn how to deal with `Github` 👇
