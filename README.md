@@ -80,10 +80,10 @@ Finally, after you’ve finished `PHP` & `MySQL` you'll need to know how to crea
     
 > You can find more about PHP in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP">Awesome PHP</a>
 
-### Github: Elzero
-Here you will learn how to deal with `Github` 👇
+### GitHub: Elzero
+Here you will learn how to deal with `GitHub` and publish your awesome projects 👇
     
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">Github</a>
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">GitHub</a>
 
 ## Intermediate Level 🔥
 
