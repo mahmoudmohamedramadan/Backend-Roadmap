@@ -135,7 +135,7 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn many useful pa
   <li><a href="https://github.com/CIS-Team/BackEnd-Squad/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
 </ul>
 
-> You may want recaps for the first book so, you can see <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging">Laravel-Digging</a>  
+> You may want recaps for the first book so, you can see <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging-v8">Laravel-Digging-v8</a>  
     
 ## Awesome Repos 🏆
     
