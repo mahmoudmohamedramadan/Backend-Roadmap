@@ -15,7 +15,7 @@
 </ul>
     
 > `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optionally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
-<a href="#vscode_extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also, I recommend some `Chrome` <a href="#chrome_extensions">extensions</a> they will help you also. `Composer` is a dependency manager for PHP and, you will need `Composer` to install/update Laravel Project also like packages
+<a href="#vscode_extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also, I recommend some `Chrome` <a href="#chrome_extensions">extensions</a> they will help you also. `Composer` is a dependency manager for PHP, you will need it to install, update, and remove the packages in your Laravel projects.
     
 ## Awesome Extensions 💡
  
