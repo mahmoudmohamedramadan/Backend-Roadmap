@@ -101,10 +101,10 @@ Here you will learn many and many in Laravel and see new tools like `Livewire` a
 
 ### Livewire: Sarthak Shrivastava
 Here you will learn the `Livewire` framework, this framework is similar to `Vue.js` 👇
- 
-> This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a> or you may love to use <a href="https://alpinejs.dev/">Alpine.js</a> because it's very similar to Vue.js and a very lightweight Javascript framework more than Vue.js
-    
+
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
+    
+> This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a> or you may love to use <a href="https://alpinejs.dev/">Alpine.js</a> because it's very similar to Vue.js and a very lightweight Javascript framework more than Vue.js
 
 ## Advanced Level 😎
     
