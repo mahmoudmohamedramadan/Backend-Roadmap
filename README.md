@@ -1,12 +1,12 @@
 # Back-End Roadmap
 
-<div style="width:100%">
-  <a href="https://www.php.net/docs.php"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/php_logo.svg" width="18%" height="200" alt="PHP"></a>
-  <a href="https://tailwindcss.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/tailwindcss_logo.svg" width="20%" height="200" alt="Tailwind CSS"></a>
-  <a href="https://alpinejs.dev/start-here"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/alpine_long.svg" width="20%" height="200" alt="Alpine.js"></a>
+<p align="center" style="width:100%">
+  <a href="https://www.php.net/docs.php"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/php_logo.svg" width="10%" height="200" alt="PHP"></a>
+  <a href="https://tailwindcss.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/tailwindcss_logo.svg" width="18%" height="200" alt="Tailwind CSS"></a>
+  <a href="https://alpinejs.dev/start-here"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/alpine_long.svg" width="18%" height="200" alt="Alpine.js"></a>
   <a href="https://laravel.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/laravel_logo.svg" width="20%" height="200" alt="Laravel"></a>
-  <a href="https://laravel-livewire.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/livewire_logo.svg" width="18%" height="200" alt="Livewire"></a>
-</div>
+  <a href="https://laravel-livewire.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/livewire_logo.svg" width="8%" height="200" alt="Livewire"></a>
+</p>
 
 # Prerequisites 📢
 
