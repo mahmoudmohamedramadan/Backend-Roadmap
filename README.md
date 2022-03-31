@@ -50,15 +50,20 @@
 
 ## Beginner Level 😋
 
-### PHP: Elzero
+### PHP: Elzero || Laracasts || Traversy Media
 At the first, we will use PHP programming language in our backend journey as a powerful language 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">Apitizers</a>
 
-## OOP: Elzero
+> You can watch the <a href="https://laracasts.com/series/php-for-beginners">PHP For Beginners</a> as a optional choice after Elzero course also you can
+watch this <a href="https://youtu.be/2eebptXfEvw">tutorial</a>
+
+## OOP: Elzero || Dani Krossing
 Second, to be master at PHP you will need to be a hero in OOP (object-oriented programming) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">OOP</a>
+
+> You can watch the <a href="https://laracasts.com/series/php-for-beginners">Object Oriented PHP Tutorial</a> as a optional choice after Elzero course
 
 ### Advanced PHP:  Elzero
 Third, you may need to know some advanced topics in PHP like `Sanitization` and `XSS` 👇
@@ -147,18 +152,21 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn many useful pa
 </ul>
     
 ## Awesome YouTube Channels 🎦
-    
+
 <ul>
   <li><a href="https://www.youtube.com/c/LaravelDaily">Laravel Daily</a></li>
   <li><a href="https://www.youtube.com/c/Laratips">Laratips</a></li>
   <li><a href="https://www.youtube.com/c/LaravelPackageTutorial">Laravel Package Tutorial</a></li>
   <li><a href="https://www.youtube.com/c/LaravelPHP">Laravel</a></li>
+  <li><a href="https://youtube.com/c/TraversyMedia">TraversyMedia</a></li>
+  <li><a href="https://youtube.com/c/TheCodeholic">TheCodeholic</a></li>
 </ul>
     
 ## Awesome Websites 🌐
     
 <ul>
   <li><a href="https://laravel-news.com/">Laravel News</a></li>
+  <li><a href="https://laracasts.com/">Laracasts</a></li>
   <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
   <li><a href="https://www.blog.mmramadan.com/fields/Back-End">Digging Code</a></li>
   <li><a href="https://beginner-sql-tutorial.com/sql-commands.htm">Beginner SQL</a></li>
