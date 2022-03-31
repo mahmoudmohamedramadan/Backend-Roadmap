@@ -66,7 +66,7 @@ Second, to be master at PHP you will need to be a hero in OOP (object-oriented p
 > You can watch the <a href="https://m.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh">Object Oriented PHP Tutorial</a> as a optional choice after Elzero course
 
 ### Advanced PHP:  Elzero
-Third, you may need to know some advanced topics in PHP like `Sanitization` and `XSS` 👇
+Third, you may need to know some advanced topics in PHP like `Sanitization` and <a href="https://portswigger.net/web-security/cross-site-scripting">`XSS`</a> 👇
  
 <a href="https://youtu.be/uXpQSrx8aqw">Advanced PHP</a>
 
@@ -76,9 +76,11 @@ After you become master in PHP you will need to know about Databases, Tables, an
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
 ### Payment Gateway: Traversy Media
-Sometimes you need to provide Payment methods to your website like {Stripe, HyperPal, PayPal, ...} 👇
-    
+Sometimes you need to provide Payment methods to your website such as (<a href="https://www.hyperpay.com/ar/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D8%A8%D9%8A/">Hyper Pay</a>, <a href="https://developer.paypal.com/">PayPal</a>, ...etc) 👇
+
 <a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Payment Gateway</a>
+    
+> You can see how I implement `Hyper Pay` payment gateway in <a href="https://github.com/mahmoudmohamedramadan/Delivery-Management">Delivery-Management</a> project
 
 ### API: Traversy Media
 Finally, after you’ve finished `PHP` & `MySQL` you'll need to know how to create APIs to be usable via `Android TEAM` 👇
