@@ -75,7 +75,7 @@ Third, you may need to know some advanced topics in PHP like `Sanitization` and 
 
 ### Database: Elzero
     
-After you become master in PHP you will need to know about Databases, Tables, and Rows 👇
+After you become master in PHP you will need to know about Databases 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
