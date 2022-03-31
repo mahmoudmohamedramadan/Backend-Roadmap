@@ -51,6 +51,7 @@
 ## Beginner Level 😋
 
 ### PHP: Elzero || Laracasts || Traversy Media
+    
 At the first, we will use PHP programming language in our backend journey as a powerful language 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">Apitizers</a>
@@ -58,7 +59,8 @@ At the first, we will use PHP programming language in our backend journey as a p
 > You can watch the <a href="https://laracasts.com/series/php-for-beginners">PHP For Beginners</a> as a optional choice after Elzero course also you can
 watch this <a href="https://youtu.be/2eebptXfEvw">tutorial</a>
 
-## OOP: Elzero || Dani Krossing
+### OOP: Elzero || Dani Krossing
+    
 Second, to be master at PHP you will need to be a hero in OOP (object-oriented programming) 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">OOP</a>
@@ -66,16 +68,19 @@ Second, to be master at PHP you will need to be a hero in OOP (object-oriented p
 > You can watch the <a href="https://m.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh">Object Oriented PHP Tutorial</a> as a optional choice after Elzero course
 
 ### Advanced PHP:  Elzero
+    
 Third, you may need to know some advanced topics in PHP like `Sanitization` and <a href="https://portswigger.net/web-security/cross-site-scripting">`XSS`</a> 👇
  
 <a href="https://youtu.be/uXpQSrx8aqw">Advanced PHP</a>
 
 ### Database: Elzero
+    
 After you become master in PHP you will need to know about Databases, Tables, and Rows 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9">Database</a>
 
 ### Payment Gateway: Traversy Media
+    
 Sometimes you need to provide Payment methods to your website such as (<a href="https://www.hyperpay.com/ar/%D9%87%D8%A7%D9%8A%D8%A8%D8%B1%D8%A8%D9%8A/">Hyper Pay</a>, <a href="https://developer.paypal.com/">PayPal</a>, ...etc) 👇
 
 <a href="https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca">Payment Gateway</a>
@@ -83,6 +88,7 @@ Sometimes you need to provide Payment methods to your website such as (<a href="
 > You can see how I implement `Hyper Pay` payment gateway in <a href="https://github.com/mahmoudmohamedramadan/Delivery-Management">Delivery-Management</a> project
 
 ### API: Traversy Media
+    
 Finally, after you’ve finished `PHP` & `MySQL` you'll need to know how to create APIs to be usable via `Android TEAM` 👇
     
 <a href="https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">API</a>
@@ -90,6 +96,7 @@ Finally, after you’ve finished `PHP` & `MySQL` you'll need to know how to crea
 > You can find more about PHP in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP">Awesome PHP</a>
 
 ### GitHub: Elzero || freeCodeCamp.org
+    
 Here you will learn how to deal with `GitHub` and publish your awesome projects 👇
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVM">GitHub</a>
@@ -99,16 +106,19 @@ Here you will learn how to deal with `GitHub` and publish your awesome projects 
 ## Intermediate Level 🔥
 
 ### Laravel 5.x: Coder’s Tape
+    
 Here you will learn many things but in the old Laravel version 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4">Laravel 5.x</a>
 
 ### Laravel 7.x: Sarthak Shrivastava
+    
 Here you will learn many and many in Laravel and see new tools like `Livewire` and `Tailwind CSS` 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">Laravel 7.x</a>
 
 ### Livewire: Sarthak Shrivastava
+    
 Here you will learn the `Livewire` framework, this framework is similar to `Vue.js` 👇
 
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
@@ -118,11 +128,13 @@ Here you will learn the `Livewire` framework, this framework is similar to `Vue.
 ## Advanced Level 😎
     
 ### Laravel 6.x: Coder’s Tape
+    
 Here you will learn very advanced topics in Laravel 👇
     
 <a href="https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO ">Advanced Laravel</a>
 
 ### Laravel Real-Time 7.x: Ahemd Emam
+    
 Here you will learn very advanced topics and real-time actions in Laravel 👇
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
@@ -130,6 +142,7 @@ Here you will learn very advanced topics and real-time actions in Laravel 👇
 ## Ninja Level 🐱‍👤
 
 ### Packages:
+    
 Andre Madarang || Sarthak Shrivastava here with you to will learn many useful packages in Laravel
     
 <ul>
