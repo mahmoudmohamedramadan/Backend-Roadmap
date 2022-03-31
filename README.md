@@ -63,7 +63,7 @@ Second, to be master at PHP you will need to be a hero in OOP (object-oriented p
     
 <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM">OOP</a>
 
-> You can watch the <a href="https://laracasts.com/series/php-for-beginners">Object Oriented PHP Tutorial</a> as a optional choice after Elzero course
+> You can watch the <a href="https://m.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh">Object Oriented PHP Tutorial</a> as a optional choice after Elzero course
 
 ### Advanced PHP:  Elzero
 Third, you may need to know some advanced topics in PHP like `Sanitization` and `XSS` 👇
