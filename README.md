@@ -8,6 +8,10 @@
   <a href="https://laravel-livewire.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/livewire_logo.svg" width="8%" height="200" alt="Livewire"></a>
 </p>
 
+# Introduction 🧐
+
+Before embarking on studying any track (including Back-end) you must be familiar with a **Science** such as (Data Structure, Algorithms, Problem Solving) because they will help you more in your technical life and there is no interview free from questions about them. It is known also that a `Back-end` is considered a second phase after `Fron-end` (<a href="https://www.w3schools.com/html/">HTML</a>, <a href="https://www.w3schools.com/css/default.asp">CSS</a>, <a href="https://www.w3schools.com/js/default.asp">JavaScript</a>) which is considered as the first phase So, you must be familiar with Front-end also to update any IMPORTANT urgent thing related with Front-end when you want that. FINALLY you must be familiar with <a href="https://refactoring.guru/design-patterns">`Design Patterns`</a> also because you'll meet them more when you study Back-end and when you reach the Laravel framework you'll find out that the most advanced topics in Laravel is based on common design patterns such as `Facade` design pattern.
+
 # Prerequisites 📢
 
 <ul>
