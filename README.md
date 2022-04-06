@@ -189,7 +189,7 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn many useful pa
   <li><a href="https://laravel-news.com/">Laravel News</a></li>
   <li><a href="https://laracasts.com/">Laracasts</a></li>
   <li><a href="https://laravelexamples.com/">Laravel Examples</a></li>
-  <li><a href="https://www.blog.mmramadan.com/fields/Back-End">Digging Code</a></li>
+  <li><a href="https://www.blog.mmramadan.com/">Digging Code</a></li>
   <li><a href="https://beginner-sql-tutorial.com/sql-commands.htm">Beginner SQL</a></li>
   <li><a href="https://www.guru99.com/">Guru99</a></li>
   <li><a href="https://www.fullstack.cafe/">FullStackCafe</a></li>
