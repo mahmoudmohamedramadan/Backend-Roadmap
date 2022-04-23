@@ -142,6 +142,8 @@ Here you will learn very advanced topics in Laravel 👇
 Here you will learn very advanced topics and real-time actions in Laravel 👇
     
 <a href="https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5u3WilkVBz4s-uQtsy79eb">Laravel Realtime</a>
+    
+> You may love to take a look over <a href="https://github.com/mahmoudmohamedramadan/Laravel-Websocket">Laravel-Websocket</a> project
 
 ## Ninja Level 🐱‍👤
 
