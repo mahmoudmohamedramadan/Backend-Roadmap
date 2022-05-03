@@ -1,11 +1,7 @@
 # Back-End Roadmap
 
 <p align="center" style="width:100%">
-  <a href="https://www.php.net/docs.php"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/php_logo.svg" width="10%" height="200" alt="PHP"></a>
-  <a href="https://tailwindcss.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/tailwindcss_logo.svg" width="18%" height="200" alt="Tailwind CSS"></a>
-  <a href="https://alpinejs.dev/start-here"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/alpine_long.svg" width="18%" height="200" alt="Alpine.js"></a>
-  <a href="https://laravel.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/laravel_logo.svg" width="20%" height="200" alt="Laravel"></a>
-  <a href="https://laravel-livewire.com/"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/livewire_logo.svg" width="8%" height="200" alt="Livewire"></a>
+  <a href="https://tallstack.dev/#components"><img src="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/tallstack-logo.png" alt="TALL-Stack"></a>
 </p>
 
 # Introduction 🧐
@@ -15,12 +11,12 @@ Before embarking on studying any track (including Back-end) you must be familiar
 # Prerequisites 📢
 
 <ul>
-  <li><a href="https://www.apachefriends.org/download.html">Xampp</a></li>
+  <li><a href="https://www.apachefriends.org/download.html">Xampp</a> || <a href="https://laragon.org/">Laragon</a></li>
   <li><a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> || <a href="https://code.visualstudio.com/download">VS Code<a></li>
   <li><a href="https://getcomposer.org/">Composer</a></li>
 </ul>
     
-> `Xampp` is a local server to run your PHP code and this program is used in all operating systems, and optionally you can choose between `PhpStorm` or `VS Code` according to your comfortable, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
+> `Xampp` and `Laragon` are local development tools and you can choose between them to use according to your comfort, BUT personally, I prefer to use `Xampp`, you can choose also between `PhpStorm` and `VS Code` according to your comfort, BUT personally, I prefer to use `VS Code` for simplicity and speedy and in case you choose to use `VS Code` I recommend you to use these useful 
 <a href="#vscode_extensions">extensions</a> you maybe love to use <a href="https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme">my extension</a> also, I recommend some `Chrome` <a href="#chrome_extensions">extensions</a> they will help you also. `Composer` is a dependency manager for PHP, you will need it to install, update, and remove the packages in your PHP or Laravel projects.
     
 ## Awesome Extensions 💡
@@ -117,17 +113,17 @@ Here you will learn many things but in the old Laravel version 👇
 
 ### Laravel 7.x: Sarthak Shrivastava
     
-Here you will learn many and many in Laravel and see new tools like `Livewire` and `Tailwind CSS` 👇
+Here you will learn many and many in Laravel and see new tools like <a href="https://laravel-livewire.com/">`Laravel-Livewire`</a> and <a href="https://tailwindcss.com/">`Tailwind CSS`</a> 👇
 
 <a href="https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ">Laravel 7.x</a>
 
 ### Livewire: Sarthak Shrivastava
     
-Here you will learn the `Livewire` framework, this framework is similar to `Vue.js` 👇
+Here you will learn the `Livewire` framework, this framework is similar to <a href="https://vuejs.org/">`Vue.js`</a> 👇
 
 <a href="https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK">Laravel Livewire</a>
     
-> This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a> or you may love to use <a href="https://alpinejs.dev/">Alpine.js</a> because it's very similar to Vue.js and a very lightweight Javascript framework more than Vue.js
+> This step is optional BUT I advise you to learn that great framework as it will relieve you from AJAX problems. If you'd like to learn Vue.js you can see this <a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9">tutorial</a>, you may love to use <a href="https://alpinejs.dev/">Alpine.js</a> also because it's a very lightweight Javascript framework
 
 ## Advanced Level 😎
     
@@ -161,8 +157,8 @@ Andre Madarang || Sarthak Shrivastava here with you to will learn many useful pa
 ## Books 📕
 
 <ul>
-  <li><a href="https://github.com/CIS-Team/BackEnd-Squad/tree/main/books">Laravel Up & Running</a></li>
-  <li><a href="https://github.com/CIS-Team/BackEnd-Squad/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
+  <li><a href="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/books/Matt%20Stauffer%20-%20Laravel_%20Up%20%26%20Running_%20A%20Framework%20for%20Building%20Modern%20PHP%20Apps-O%E2%80%99Reilly%20Media%20(2019).pdf">Laravel Up & Running</a></li>
+  <li><a href="https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/books/The-Clean-Coders-Guide-to-Laravel.pdf">Laravel Clean Coders</a></li>
 </ul>
 
 > You may want recaps for the first book so, you can see <a href="https://github.com/mahmoudmohamedramadan/Laravel-Digging-v8">Laravel-Digging-v8</a>  
