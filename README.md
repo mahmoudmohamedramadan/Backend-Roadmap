@@ -1,42 +1,45 @@
-# Back-end Roadmap
+# Backend Roadmap
 
 [![TALL-Stack](https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/tallstack-logo.png)](https://tallstack.dev/#components)
 
 ## 🧐 Introduction
 
-Before embarking on studying any track you must be familiar with a **Science** such as (Data Structure, Algorithms, and Problem-Solving) because they will help you more in your technical life and there is no interview free from questions about them. In addition, you have to have a good knowledge of ([Security](https://portswigger.net/web-security/learning-path), and [Networking](https://www.javatpoint.com/computer-network-http)). It is known also that the `Back-end` is considered a second phase after `Fron-end` ([HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), [JavaScript](https://www.w3schools.com/js/default.asp)) which is considered the first phase, so it will be fine if you were familiar with `Front-end`. FINALLY, you must be good at [`Design Patterns`](https://refactoring.guru/design-patterns) because you'll meet them more when you study `Back-end`, and when you reach the Laravel framework you'll find out that the most advanced topics in Laravel are based on common design patterns such as `Facade` design pattern.
+Before diving into any track, it's essential to first familiarize yourself with foundational **sciences** such as **Data Structures**, **Algorithms**, and **Problem-Solving**, as these will significantly benefit your technical career. No technical interview is complete without questions related to these topics. Additionally, having a solid understanding of [**Security**](https://portswigger.net/web-security/learning-path) and [**Networking**](https://www.javatpoint.com/computer-network-http) is crucial.
 
-## 📢 Prerequisites
+It’s also important to know that **Back-end Development** is often considered a second phase after mastering **Front-end Development**. The first phase includes understanding the basics of [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), and [JavaScript](https://www.w3schools.com/js/default.asp), so it’s perfectly fine if you're familiar with these before moving on to back-end technologies.
 
-- [Xampp](https://www.apachefriends.org/download.html) || [Laragon](https://laragon.org/)
-- [PhpStorm](https://www.jetbrains.com/phpstorm/) || [VS Code](https://code.visualstudio.com/download)
+Finally, it's essential to get comfortable with **[Design Patterns](https://refactoring.guru/design-patterns)**. These patterns will become increasingly relevant as you study **Back-end Development**. When you reach advanced frameworks like **Laravel**, you'll find that many of its most advanced features are built on well-known design patterns, such as the **Facade** pattern.
+
+## 🧰 Tools
+
+- [Laravel Herd](https://herd.laravel.com/) || [Laragon](https://laragon.org/) || [Xampp](https://www.apachefriends.org/download.html)
+- [VS Code](https://code.visualstudio.com/download) || [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Composer](https://getcomposer.org/)
 
-> `Xampp` and `Laragon` are local development tools and you can choose BETWEEN them to use according to your comfort, but personally, I prefer to use `Xampp`, also you can choose BETWEEN `PhpStorm` and `VS Code` according to your comfort, but personally, I prefer to use `VS Code` for simplicity and speed, and in case you choose to use `VS Code` I recommend using these helpful [Extensions](#vs-code), also I recommend using these useful [Chrome Extensions](#chrome). `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/9.x/sail) and [`Docker`](https://www.docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
+> `Xampp` and `Laragon` are local development tools and you can choose BETWEEN them to use according to your comfort, but I prefer to use `Xampp`, you can select BETWEEN `PhpStorm` and `VS Code` according to your comfort, but I prefer to use `VS Code` for simplicity and speed, and in case you choose to use `VS Code` I recommend using these helpful [Extensions](#vs-code), also I recommend using these useful [Chrome Extensions](#chrome). `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/9.x/sail) and [`Docker`](https://www.docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
 
-## 🕸 Awesome Extensions
+## 🔌 Awesome Extensions
 
 ### VS Code
 
-- PHP Debug
-- PHP Inteliphense
-- Laravel Extension Pack
-- Auto Rename Tag
-- Error Lens
-- PHP Class Generator
-- PHP Snippets
-- vscode-icons
-- MySQL
-- GitHub Copilot
-- M.R Darkest Theme
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
+- [PHP Inteliphense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+- [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack)
+- [PHP Class Generator](https://marketplace.visualstudio.com/items?itemName=damianbal.vs-phpclassgen)
+- [PHP Snippets](https://marketplace.visualstudio.com/items?itemName=vsc-snippets.vsc-php-snippets)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+- [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
+- [M.R Darkest Theme](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme)
   
 ### Chrome
 
-- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+- [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/gpmodmeblccallcadopbcoeoejepgpnb)
 - [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
 - [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
-
-> `GitHub Copilot` is a very awesome tool, but please use it in production applications only, not while learning, but it's become paid now, so I recommend using [Blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox), but if we will compare BETWEEN them, `GitHub Copilot` will win.
 
 ## 🚀 Getting Started
 
@@ -48,7 +51,7 @@ At first, we will use PHP programming language in our `Back-end` journey as a po
 
 [Learn PHP 5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
 
-> You can watch [PHP For Beginners](https://laracasts.com/series/php-for-beginners) or [Learn PHP The Right Way](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) as an optional choice for Elzero course, then you can watch [PHP For Absolute Beginners](https://youtu.be/2eebptXfEvw) for revision.
+> You can watch [PHP For Beginners](https://laracasts.com/series/php-for-beginners) or [Learn PHP The Right Way](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) as an optional choice for Elzero course, then watch [PHP For Absolute Beginners](https://youtu.be/2eebptXfEvw) for revision.
 
 #### OOP: Elzero
 
@@ -84,7 +87,7 @@ Finally, after you’ve finished `PHP` & `MySQL`, you'll need to know how to cre
 
 [PHP REST API From Scratch](https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo)
 
-> After finishing PHP tutorials, you can take a look over its [Awesome Packages](https://github.com/odan/learn-php), and say hello to my recap that you'll find in [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP).
+> After finishing PHP tutorials, you can look over its [Awesome Packages](https://github.com/odan/learn-php), and say hello to my recap that you'll find in [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP).
 
 #### GitHub: Elzero
 
@@ -92,7 +95,7 @@ Here you'll learn how to deal with `GitHub` and how to publish your awesome proj
 
 [Learn Git and GitHub](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
-> You can watch [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) as an optional choice for Elzero course.
+> You can watch the [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) as an optional resource for the Elzero course.
 
 ### 🚦 Intermediate Level
 
@@ -108,15 +111,15 @@ Here you'll learn more and more about Laravel, [`Livewire`](https://laravel-live
 
 [Laravel 7 Basics tutorials](https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ)
 
-> You may ask why should I learn more than one version of Laravel, what if I learn the latest version ONLY? My answer is that learning more than one version gives you more experience. In addition, every version contains its new features ONLY, and this makes you ignore the old version's features.
+> You might be wondering, *"Why should I learn more than one version of Laravel? What if I focus only on the latest version?"* The answer is that learning multiple versions broadens your experience. While each new version of Laravel introduces exciting features, it can also cause you to overlook valuable functionality or concepts from older versions. By exploring different versions, you'll gain a deeper understanding of the framework's evolution, making you a more adaptable and well-rounded developer.
 
 #### Livewire: Sarthak Shrivastava
 
-Here you'll learn `Livewire` framework, that makes building dynamic interfaces simple, without leaving the comfort of Laravel 🤯
+Here you'll learn the `Livewire` framework, that makes building dynamic interfaces simple, without leaving the comfort of Laravel 🤯
 
 [Laravel Livewire Full Course](https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK)
 
-> This step is optional, but I recommend learning `Livewire` as it'll relieve you from AJAX problems, also you may like to use [Alpine.js](https://alpinejs.dev/) because it's a very lightweight Javascript framework. If you'd like to learn `Vue.js` you can watch [Vue.js Tutorials & Examples](https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9).
+> This step is optional, but I recommend learning `Livewire`, **which helps you avoid** AJAX-related issues. **You might also want to consider** using [Alpine.js](https://alpinejs.dev/), as it's a very lightweight JavaScript framework. If you're interested in learning `Vue.js`, you can check out [Vue.js Tutorials & Examples](https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9).
 
 ### 🐲 Advanced Level
 
@@ -132,8 +135,6 @@ Here you'll learn real-time actions in Laravel ⏱
 
 [Real-time web apps with Pusher & Laravel](https://youtu.be/l44IF9fBNOs)
 
-> You may love to take a glance over [Laravel Websocket](https://github.com/mahmoudmohamedramadan/Laravel-Websocket). After this step, I highly recommend learning Laravel via its [awesome documentation](https://laravel.com/).
-
 ### 🐱‍👤 Ninja Level
 
 #### Packages: Andre Madarang || Sarthak Shrivastava
@@ -141,7 +142,7 @@ Here you'll learn real-time actions in Laravel ⏱
 - [Andre Madarang](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 - [Sarthak Shrivastava](https://www.youtube.com/playlist?list=PLe30vg_FG4ORrveWqHjn-9C5sn5mUP815)
 
-> Suppose that you want to make a project for a client, surely you'll not send the project to him and maybe you do not have a private domain and hosting, so I recommend using [Ngrok](https://ngrok.com/download). This awesome tool enables you to publish your project in virtual hosting.
+> When working on a project for a client, you likely won't want to send them the raw project files directly, and you may not have a private domain or host set up yet. In such cases, I highly recommend using [Ngrok](https://ngrok.com/download). This fantastic tool lets you quickly publish your project with a secure, temporary URL, giving you virtual hosting for sharing and testing purposes.
 
 ### 📕 Books
 
@@ -150,12 +151,12 @@ Here you'll learn real-time actions in Laravel ⏱
 
 > Say hello to [Laravel Digging v8](https://github.com/mahmoudmohamedramadan/Laravel-Digging-v8) that recaps `Laravel Up & Running` book.  
 
-### 🤩 Awesome Repos
+### 📦 Awesome Repos
 
 - [Awesome PHP](https://github.com/odan/learn-php)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 
-### 🎬 Awesome YouTube Channels
+### 📺 Awesome YouTube Channels
 
 - [Laravel Daily](https://www.youtube.com/c/LaravelDaily)
 - [Laratips](https://www.youtube.com/c/Laratips)
@@ -168,7 +169,6 @@ Here you'll learn real-time actions in Laravel ⏱
 
 - [Laravel News](https://laravel-news.com/)
 - [Laracasts](https://laracasts.com/)
-- [Laravel Examples](https://laravelexamples.com/)
 - [Digging Code](https://www.blog.mmramadan.com/)
 - [Beginner SQL](https://beginner-sql-tutorial.com/sql-commands.htm)
 - [Guru99](https://www.guru99.com/)
