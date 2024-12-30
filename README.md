@@ -115,7 +115,7 @@ You'll learn more and more about [`Laravel`](https://laravel.com/), [`Livewire`]
 
 #### Livewire: Sarthak Shrivastava
 
-Here you'll learn the `Livewire` framework, that makes building dynamic interfaces simple, without leaving the comfort of Laravel 🤯
+You'll learn the `Livewire` framework, that makes building dynamic interfaces simple, without leaving the comfort of Laravel. 🤯
 
 [Laravel Livewire Full Course](https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK)
 
@@ -125,13 +125,13 @@ Here you'll learn the `Livewire` framework, that makes building dynamic interfac
 
 #### Laravel 6.x: Coder’s Tape
 
-Here you'll learn very advanced topics in Laravel. 🏋️‍♂️
+You'll learn very advanced topics in Laravel. 🏋️‍♂️
 
 [Laravel 6 Advanced](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
 #### Laravel Real-time: Neil Rowe
 
-Here you'll learn real-time actions in Laravel. ⏱
+You'll learn real-time actions in Laravel. ⏱
 
 [Real-time web apps with Pusher & Laravel](https://youtu.be/l44IF9fBNOs)
 
@@ -149,7 +149,7 @@ Here you'll learn real-time actions in Laravel. ⏱
 - [Laravel Up & Running](https://laravelupandrunning.com/)
 - [Laravel Clean Coders](https://ashallendesign.co.uk/blog/the-clean-coders-guide-to-laravel-free-70-page-pdf)
 
-> Say hello to [Laravel Digging v8](https://github.com/mahmoudmohamedramadan/Laravel-Digging-v8) that recaps `Laravel Up & Running` book.  
+> Discover [Laravel Digging v8](https://github.com/mahmoudmohamedramadan/Laravel-Digging-v8), a recap of the *Laravel Up & Running* book.
 
 ### 📦 Awesome Repos
 
