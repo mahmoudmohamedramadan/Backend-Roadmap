@@ -55,7 +55,7 @@ At first, we will use PHP programming language in our journey as a powerful lang
 
 #### OOP: Elzero
 
-Next, to master PHP, you'll need to become a hero in Object-Oriented Programming (OOP). 🐱‍🏍
+Next, to excel at PHP, become a hero in Object-Oriented Programming (OOP). 🐱‍🏍
 
 [Learn Object Oriented PHP](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
 
@@ -72,6 +72,14 @@ Third, you must grasp essential security concepts in PHP such as `Sanitization` 
 Once you've mastered PHP, it's time to dive deeper into databases. 💾
 
 [MySQL 5 Essential Training](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+
+Additionally, explore this list of advanced topics. 🔥
+
+- **ACID Database**
+- **Database Normalization**
+- **Database Replication**
+- **Database Sharding**
+- **CAP Theorem**
 
 #### Payment Gateway: Traversy Media
 
@@ -125,13 +133,13 @@ You'll learn the `Livewire` framework, that makes building dynamic interfaces si
 
 #### Laravel 6.x: Coder’s Tape
 
-You'll learn very advanced topics in Laravel. 🏋️‍♂️
+You'll gain expertise in Laravel proficient topics. 🏋️‍♂️
 
 [Laravel 6 Advanced](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
 #### Laravel Real-time: Neil Rowe
 
-You'll learn real-time actions in Laravel. ⏱
+You'll deepen your knowledge of real-time actions in Laravel. ⏱
 
 [Real-time web apps with Pusher & Laravel](https://youtu.be/l44IF9fBNOs)
 
