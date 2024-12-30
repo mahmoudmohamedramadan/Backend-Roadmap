@@ -8,7 +8,7 @@ Before diving into any track, it's essential to first familiarize yourself with 
 
 It’s also important to know that **Back-end Development** is often considered a second phase after mastering **Front-end Development**. The first phase includes understanding the basics of [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), and [JavaScript](https://www.w3schools.com/js/default.asp), so it’s perfectly fine if you're familiar with these before moving on to back-end technologies.
 
-Finally, it's essential to get comfortable with **[Design Patterns](https://refactoring.guru/design-patterns)**. These patterns will become increasingly relevant as you study **Back-end Development**. When you reach advanced frameworks like **Laravel**, you'll find that many of its most advanced features are built on well-known design patterns, such as the **Facade** pattern.
+Finally, it's essential to get comfortable with **[Design Patterns](https://refactoring.guru/design-patterns)**. These patterns will become increasingly relevant as you study **Back-end Development**.
 
 ## 🧰 Tools
 
@@ -16,7 +16,7 @@ Finally, it's essential to get comfortable with **[Design Patterns](https://refa
 - [VS Code](https://code.visualstudio.com/download) || [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Composer](https://getcomposer.org/)
 
-> `Xampp` and `Laragon` are local development tools and you can choose BETWEEN them to use according to your comfort, but I prefer to use `Xampp`, you can select BETWEEN `PhpStorm` and `VS Code` according to your comfort, but I prefer to use `VS Code` for simplicity and speed, and in case you choose to use `VS Code` I recommend using these helpful [Extensions](#vs-code), also I recommend using these useful [Chrome Extensions](#chrome). `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/9.x/sail) and [`Docker`](https://www.docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
+> `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/11.x/sail) and [`Docker`](https://www.docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
 
 ## 🔌 Awesome Extensions
 
@@ -47,67 +47,67 @@ Finally, it's essential to get comfortable with **[Design Patterns](https://refa
 
 #### Basics: Elzero
 
-At first, we will use PHP programming language in our `Back-end` journey as a powerful language 🎯
+At first, we will use PHP programming language in our journey as a powerful language. 🎯
 
 [Learn PHP 5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
 
-> You can watch [PHP For Beginners](https://laracasts.com/series/php-for-beginners) or [Learn PHP The Right Way](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) as an optional choice for Elzero course, then watch [PHP For Absolute Beginners](https://youtu.be/2eebptXfEvw) for revision.
+> You can watch [PHP For Beginners](https://laracasts.com/series/php-for-beginners) or [Learn PHP The Right Way](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) as an alternative, and then review [PHP For Absolute Beginners](https://youtu.be/2eebptXfEvw) for a refresher.
 
 #### OOP: Elzero
 
-Second, to be a master at PHP, you'll need to be a hero in OOP 🐱‍🏍
+Next, to master PHP, you'll need to become a hero in Object-Oriented Programming (OOP). 🐱‍🏍
 
 [Learn Object Oriented PHP](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
 
-> You can watch [Object Oriented PHP Tutorial](https://m.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) as a optional choice for Elzero course.
+> You can watch [Object Oriented PHP Tutorial](https://m.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) as an alternative.
 
 #### Types Of Filters: Elzero
 
-Third, you must know security topics in PHP such as `Sanitization` and [`XSS`](https://portswigger.net/web-security/cross-site-scripting) 🐱‍💻
+Third, you must grasp essential security concepts in PHP such as `Sanitization` and preventing [`XSS`](https://portswigger.net/web-security/cross-site-scripting) attacks. 🐱‍💻
 
 [Validate vs Sanitize](https://youtu.be/uXpQSrx8aqw)
 
 #### Database: Elzero
 
-After you become a master in PHP, you'll need to know more about databases 🗂
+Once you've mastered PHP, it's time to dive deeper into databases. 💾
 
 [MySQL 5 Essential Training](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 
 #### Payment Gateway: Traversy Media
 
-Sometimes you need to provide payment gateways to your site such as ([Hyper Pay](https://www.hyperpay.com/), [PayPal](https://developer.paypal.com/), [Stripe](https://stripe.com/), ...etc), so you can watch the next tutorial 💳
+Sometimes, you may need to integrate payment gateways into your site, such as [HyperPay](https://www.hyperpay.com/), [PayPal](https://developer.paypal.com/), [Stripe](https://stripe.com/), and others. To learn how to do this, check out the next tutorial. 💳
 
 [PHP, MySQL & Stripe API Payment App](https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca)
 
-> You can see how I implement the `Hyper Pay` payment gateway, as explained in [Delivery Management](https://github.com/mahmoudmohamedramadan/Delivery-Management).
+> You can see how I integrate the `Hyper Pay` payment gateway, as demonstrated in the [Delivery Management](https://github.com/mahmoudmohamedramadan/Delivery-Management) project.
 
 #### API: Traversy Media
 
-Finally, after you’ve finished `PHP` & `MySQL`, you'll need to know how to create APIs to be usable via `Android TEAM` 🐙
+Finally, after you’ve finished `PHP` & `MySQL`, you'll need to know how to create APIs to be usable via `Android TEAM`. 🤖
 
 [PHP REST API From Scratch](https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo)
 
-> After finishing PHP tutorials, you can look over its [Awesome Packages](https://github.com/odan/learn-php), and say hello to my recap that you'll find in [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP).
+> After completing the PHP tutorials, you can explore its [Awesome Packages](https://github.com/odan/learn-php) for additional resources. Also, feel free to check out my recap in [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP).
 
 #### GitHub: Elzero
 
-Here you'll learn how to deal with `GitHub` and how to publish your awesome projects 🐱
+You'll learn how to deal with `GitHub` and how to publish your awesome projects. 🐙
 
 [Learn Git and GitHub](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
-> You can watch the [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) as an optional resource for the Elzero course.
+> You can watch the [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk) as an alternative.
 
 ### 🚦 Intermediate Level
 
 #### Laravel 5.x: Coder’s Tape
 
-Here you'll learn many things about Laravel, but in an old version 5️⃣
+You'll learn many things about Laravel in an old version here. 5️⃣
 
 [Laravel 5.8 - From The Ground Up](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4)
 
 #### Laravel 7.x: Sarthak Shrivastava
 
-Here you'll learn more and more about Laravel, [`Livewire`](https://laravel-livewire.com/), and [`Tailwind CSS`](https://tailwindcss.com/) 7️⃣
+You'll learn more and more about [`Laravel`](https://laravel.com/), [`Livewire`](https://laravel-livewire.com/), and [`Tailwind CSS`](https://tailwindcss.com/). 7️⃣
 
 [Laravel 7 Basics tutorials](https://youtube.com/playlist?list=PLe30vg_FG4OSCTUv3XIkwH--cK2D7rfJJ)
 
@@ -125,13 +125,13 @@ Here you'll learn the `Livewire` framework, that makes building dynamic interfac
 
 #### Laravel 6.x: Coder’s Tape
 
-Here you'll learn very advanced topics in Laravel 🏋️‍♂️
+Here you'll learn very advanced topics in Laravel. 🏋️‍♂️
 
 [Laravel 6 Advanced](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
 #### Laravel Real-time: Neil Rowe
 
-Here you'll learn real-time actions in Laravel ⏱
+Here you'll learn real-time actions in Laravel. ⏱
 
 [Real-time web apps with Pusher & Laravel](https://youtu.be/l44IF9fBNOs)
 
