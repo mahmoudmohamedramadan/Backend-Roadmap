@@ -13,8 +13,8 @@ Finally, it's essential to get comfortable with **[Design Patterns](https://refa
 ## 🧰 Tools
 
 - [Laravel Herd](https://herd.laravel.com/) || [Laragon](https://laragon.org/) || [Xampp](https://www.apachefriends.org/download.html)
-- [VS Code](https://code.visualstudio.com/download) || [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Composer](https://getcomposer.org/)
+- [VS Code](https://code.visualstudio.com/download) || [PhpStorm](https://www.jetbrains.com/phpstorm/)
 
 > `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/11.x/sail) and [`Docker`](https://www.docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
 
@@ -73,13 +73,15 @@ Once you've mastered PHP, it's time to dive deeper into databases. 💾
 
 [MySQL 5 Essential Training](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 
-Additionally, explore this list of advanced topics. 🔥
+Additionally, explore this list of advanced topics for an added benefit. 📚
 
 - **ACID Database**
 - **Database Normalization**
 - **Database Replication**
 - **Database Sharding**
 - **CAP Theorem**
+
+> I highly recommend [Tech Vault](https://www.youtube.com/@TechVault_) for such an expert-level database.
 
 #### Payment Gateway: Traversy Media
 
