@@ -6,7 +6,7 @@
 
 Before diving into any track, it's essential to first familiarize yourself with foundational **sciences** such as **Data Structures**, **Algorithms**, and **Problem-Solving**, as these will significantly benefit your technical career. No technical interview is complete without questions related to these topics. Additionally, having a solid understanding of [**Security**](https://portswigger.net/web-security/learning-path) and [**Networking**](https://www.javatpoint.com/computer-network-http) is crucial.
 
-It’s also important to know that **Back-end Development** is often considered a second phase after mastering **Front-end Development**. The first phase includes understanding the basics of [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), and [JavaScript](https://www.w3schools.com/js/default.asp), so it’s perfectly fine if you're familiar with these before moving on to back-end technologies.
+Keep in mind that **Back-end Development** is often considered a second phase after mastering **Front-end Development**. The first phase includes understanding the basics of [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), and [JavaScript](https://www.w3schools.com/js/default.asp), so it’s perfectly fine if you're familiar with these before moving on to back-end technologies.
 
 Finally, it's essential to get comfortable with **[Design Patterns](https://refactoring.guru/design-patterns)**. These patterns will become increasingly relevant as you study **Back-end Development**.
 
@@ -47,7 +47,7 @@ Finally, it's essential to get comfortable with **[Design Patterns](https://refa
 
 #### Basics: Elzero
 
-At first, we will use PHP programming language in our journey as a powerful language. 🎯
+At first, we will use PHP programming language as a powerful language in our journey. 🎯
 
 [Learn PHP 5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
 
@@ -73,7 +73,7 @@ Once you've mastered PHP, it's time to dive deeper into databases. 💾
 
 [MySQL 5 Essential Training](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 
-Additionally, explore this list of advanced topics for an added benefit. 📚
+Also, you can go ahead and explore this list of advanced topics for an added benefit. 📚
 
 - **ACID Database**
 - **Database Normalization**
@@ -97,7 +97,7 @@ Finally, after you’ve finished `PHP` & `MySQL`, you'll need to know how to cre
 
 [PHP REST API From Scratch](https://youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo)
 
-> After completing the PHP tutorials, you can explore its [Awesome Packages](https://github.com/odan/learn-php) for additional resources. Also, feel free to check out my recap in [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP).
+> After completing the PHP tutorials, you can explore its [Awesome Packages](https://github.com/odan/learn-php) for additional resources. Also, don’t forget to check out my recap in [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP) for additional insights!
 
 #### GitHub: Elzero
 
@@ -135,7 +135,7 @@ You'll learn the `Livewire` framework, that makes building dynamic interfaces si
 
 #### Laravel 6.x: Coder’s Tape
 
-You'll gain expertise in Laravel proficient topics. 🏋️‍♂️
+You'll gain expertise in proficient Laravel concepts. 🏋️‍♂️
 
 [Laravel 6 Advanced](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
@@ -169,17 +169,26 @@ You'll deepen your knowledge of real-time actions in Laravel. ⏱
 ### 📺 Awesome YouTube Channels
 
 - [Laravel Daily](https://www.youtube.com/c/LaravelDaily)
+- [Coder's Tape](https://www.youtube.com/@CodersTape)
+- [Bitfumes](https://www.youtube.com/@Bitfumes)
 - [Laratips](https://www.youtube.com/c/Laratips)
 - [Laravel Package Tutorial](https://www.youtube.com/c/LaravelPackageTutorial)
 - [Laravel PHP](https://www.youtube.com/c/LaravelPHP)
 - [TraversyMedia](https://youtube.com/c/TraversyMedia)
+- [Tech Vault](https://www.youtube.com/@TechVault_)
 - [TheCodeholic](https://youtube.com/c/TheCodeholic)
 
 ### 🌐 Awesome Websites
 
+- [Laravel Daily](https://laraveldaily.com/)
 - [Laravel News](https://laravel-news.com/)
 - [Laracasts](https://laracasts.com/)
+- [Benjamin Crozat](https://benjamincrozat.com/)
 - [Digging Code](https://www.blog.mmramadan.com/)
 - [Beginner SQL](https://beginner-sql-tutorial.com/sql-commands.htm)
 - [Guru99](https://www.guru99.com/)
 - [FullStackCafe](https://www.fullstack.cafe/)
+- [PortSwigger](https://portswigger.net/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Refactoring.Guru](https://refactoring.guru/)
+- [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/en/latest/index.html)
