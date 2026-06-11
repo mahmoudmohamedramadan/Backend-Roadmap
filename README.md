@@ -1,22 +1,22 @@
 # Backend Roadmap
 
-[![TALL-Stack](https://github.com/mahmoudmohamedramadan/Backend-Roadmap/blob/main/assets/tallstack-logo.png)](https://tallstack.dev/#components)
+[![TALL-Stack](/art/tallstack-logo.png)](https://tallstack.dev/#components)
 
 ## 🧐 Introduction
 
-Before diving into any track, it's essential to first familiarize yourself with foundational **sciences** such as **Data Structures**, **Algorithms**, and **Problem-Solving**, as these will significantly benefit your technical career. No technical interview is complete without questions related to these topics. Additionally, having a solid understanding of [**Security**](https://portswigger.net/web-security/learning-path) and [**Networking**](https://www.javatpoint.com/computer-network-http) is crucial.
+Before diving into any track, it's essential to first familiarize yourself with foundational **sciences** such as **Data Structures**, **Algorithms**, and **Problem-Solving**, as these will significantly benefit your technical career. No technical interview is complete without questions related to these topics. Additionally, having a solid understanding of [**Security**](https://portswigger.net/web-security/learning-path) and [**Networking**](https://javatpoint.com/computer-network-http) is crucial.
 
-Keep in mind that **Back-end Development** is often considered a second phase after mastering **Front-end Development**. The first phase includes understanding the basics of [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), and [JavaScript](https://www.w3schools.com/js/default.asp), so it’s perfectly fine if you're familiar with these before moving on to back-end technologies.
+Keep in mind that **Back-end Development** is often considered a second phase after mastering **Front-end Development**. The first phase includes understanding the basics of [HTML](https://w3schools.com/html/), [CSS](https://w3schools.com/css/default.asp), and [JavaScript](https://w3schools.com/js/default.asp), so it’s perfectly fine if you're familiar with these before moving on to back-end technologies.
 
 Finally, it's essential to get comfortable with **[Design Patterns](https://refactoring.guru/design-patterns)**. These patterns will become increasingly relevant as you study **Back-end Development**.
 
 ## 🧰 Tools
 
-- [Laravel Herd](https://herd.laravel.com/) || [Laragon](https://laragon.org/) || [Xampp](https://www.apachefriends.org/download.html)
+- [Laravel Herd](https://herd.laravel.com/) || [Laragon](https://laragon.org/) || [Xampp](https://apachefriends.org/download.html)
 - [Composer](https://getcomposer.org/)
-- [VS Code](https://code.visualstudio.com/download) || [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [VS Code](https://code.visualstudio.com/download) || [PhpStorm](https://jetbrains.com/phpstorm/)
 
-> `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/11.x/sail) and [`Docker`](https://www.docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
+> `Composer` is a dependency manager for PHP, you'll need it to install, update, and remove the packages in your PHP or Laravel projects. It's fine to explore Laravel with [`Laravel Sail`](https://laravel.com/docs/11.x/sail) and [`Docker`](https://docker.com/) because it allows you to work easily on any Laravel version without being obsessed with compatibility problems.
 
 ## 🔌 Awesome Extensions
 
@@ -33,7 +33,7 @@ Finally, it's essential to get comfortable with **[Design Patterns](https://refa
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
-- [M.R Darkest Theme](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme)
+- [Midnight Echo](https://marketplace.visualstudio.com/items?itemName=MahmoudMohamedRamadan.mr-darkest-theme)
   
 ### Chrome
 
@@ -49,7 +49,7 @@ Finally, it's essential to get comfortable with **[Design Patterns](https://refa
 
 At first, we will use PHP programming language as a powerful language in our journey. 🎯
 
-[Learn PHP 5 In Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+[Learn PHP 5 In Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
 
 > You can watch [PHP For Beginners](https://laracasts.com/series/php-for-beginners) or [Learn PHP The Right Way](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) as an alternative, and then review [PHP For Absolute Beginners](https://youtu.be/2eebptXfEvw) for a refresher.
 
@@ -71,7 +71,7 @@ Third, you must grasp essential security concepts in PHP such as `Sanitization` 
 
 Once you've mastered PHP, it's time to dive deeper into databases. 💾
 
-[MySQL 5 Essential Training](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
+[MySQL 5 Essential Training](https://youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9)
 
 Also, you can go ahead and explore this list of advanced topics for an added benefit. 📚
 
@@ -81,13 +81,13 @@ Also, you can go ahead and explore this list of advanced topics for an added ben
 - **Database Sharding**
 - **CAP Theorem**
 
-> I highly recommend [Tech Vault](https://www.youtube.com/@TechVault_) for such an expert-level database.
+> I highly recommend [Tech Vault](https://youtube.com/@TechVault_) for such an expert-level database.
 
 #### Payment Gateway: Traversy Media
 
-Sometimes, you may need to integrate payment gateways into your site, such as [HyperPay](https://www.hyperpay.com/), [PayPal](https://developer.paypal.com/), [Stripe](https://stripe.com/), and others. To learn how to do this, check out the next tutorial. 💳
+Sometimes, you may need to integrate payment gateways into your site, such as [HyperPay](https://hyperpay.com/), [PayPal](https://developer.paypal.com/), [Stripe](https://stripe.com/), and others. To learn how to do this, check out the next tutorial. 💳
 
-[PHP, MySQL & Stripe API Payment App](https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca)
+[PHP, MySQL & Stripe API Payment App](https://youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca)
 
 > You can see how I integrate the `Hyper Pay` payment gateway, as demonstrated in the [Delivery Management](https://github.com/mahmoudmohamedramadan/Delivery-Management) project.
 
@@ -113,7 +113,7 @@ You'll learn how to deal with `GitHub` and how to publish your awesome projects.
 
 You'll learn many things about Laravel in an old version here. 5️⃣
 
-[Laravel 5.8 - From The Ground Up](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4)
+[Laravel 5.8 - From The Ground Up](https://youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4)
 
 #### Laravel 7.x: Sarthak Shrivastava
 
@@ -127,7 +127,7 @@ You'll learn more and more about [`Laravel`](https://laravel.com/), [`Livewire`]
 
 You'll learn the `Livewire` framework, that makes building dynamic interfaces simple, without leaving the comfort of Laravel. 🤯
 
-[Laravel Livewire Full Course](https://www.youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK)
+[Laravel Livewire Full Course](https://youtube.com/playlist?list=PLe30vg_FG4OQ8b813BDykoYz95Zc3xUWK)
 
 > This step is optional, but I recommend learning `Livewire`, **which helps you avoid** AJAX-related issues. **You might also want to consider** using [Alpine.js](https://alpinejs.dev/), as it's a very lightweight JavaScript framework. If you're interested in learning `Vue.js`, you can check out [Vue.js Tutorials & Examples](https://youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9).
 
@@ -137,7 +137,7 @@ You'll learn the `Livewire` framework, that makes building dynamic interfaces si
 
 You'll gain expertise in proficient Laravel concepts. 🏋️‍♂️
 
-[Laravel 6 Advanced](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+[Laravel 6 Advanced](https://youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
 #### Laravel Real-time: Neil Rowe
 
@@ -149,8 +149,8 @@ You'll deepen your knowledge of real-time actions in Laravel. ⏱
 
 #### Packages: Andre Madarang || Sarthak Shrivastava
 
-- [Andre Madarang](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
-- [Sarthak Shrivastava](https://www.youtube.com/playlist?list=PLe30vg_FG4ORrveWqHjn-9C5sn5mUP815)
+- [Andre Madarang](https://youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
+- [Sarthak Shrivastava](https://youtube.com/playlist?list=PLe30vg_FG4ORrveWqHjn-9C5sn5mUP815)
 
 > When working on a project for a client, you likely won't want to send them the raw project files directly, and you may not have a private domain or host set up yet. In such cases, I highly recommend using [Ngrok](https://ngrok.com/download). This fantastic tool lets you quickly publish your project with a secure, temporary URL, giving you virtual hosting for sharing and testing purposes.
 
@@ -168,14 +168,14 @@ You'll deepen your knowledge of real-time actions in Laravel. ⏱
 
 ### 📺 Awesome YouTube Channels
 
-- [Laravel Daily](https://www.youtube.com/c/LaravelDaily)
-- [Coder's Tape](https://www.youtube.com/@CodersTape)
-- [Bitfumes](https://www.youtube.com/@Bitfumes)
-- [Laratips](https://www.youtube.com/c/Laratips)
-- [Laravel Package Tutorial](https://www.youtube.com/c/LaravelPackageTutorial)
-- [Laravel PHP](https://www.youtube.com/c/LaravelPHP)
+- [Laravel Daily](https://youtube.com/c/LaravelDaily)
+- [Coder's Tape](https://youtube.com/@CodersTape)
+- [Bitfumes](https://youtube.com/@Bitfumes)
+- [Laratips](https://youtube.com/c/Laratips)
+- [Laravel Package Tutorial](https://youtube.com/c/LaravelPackageTutorial)
+- [Laravel PHP](https://youtube.com/c/LaravelPHP)
 - [TraversyMedia](https://youtube.com/c/TraversyMedia)
-- [Tech Vault](https://www.youtube.com/@TechVault_)
+- [Tech Vault](https://youtube.com/@TechVault_)
 - [TheCodeholic](https://youtube.com/c/TheCodeholic)
 
 ### 🌐 Awesome Websites
@@ -184,10 +184,10 @@ You'll deepen your knowledge of real-time actions in Laravel. ⏱
 - [Laravel News](https://laravel-news.com/)
 - [Laracasts](https://laracasts.com/)
 - [Benjamin Crozat](https://benjamincrozat.com/)
-- [Digging Code](https://www.blog.mmramadan.com/)
+- [Digging Code](https://blog.mmramadan.com/)
 - [Beginner SQL](https://beginner-sql-tutorial.com/sql-commands.htm)
-- [Guru99](https://www.guru99.com/)
-- [FullStackCafe](https://www.fullstack.cafe/)
+- [Guru99](https://guru99.com/)
+- [FullStackCafe](https://fullstack.cafe/)
 - [PortSwigger](https://portswigger.net/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Refactoring.Guru](https://refactoring.guru/)
